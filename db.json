@@ -1,19 +1,56 @@
 {
-  "posts": [
+  "fruits": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Morango",
+      "image": "https://www.svgrepo.com/show/489698/strawberry.svg",
+      "id": "1"
+    },
+    {
+      "name": "Kiwi",
+      "image": "https://www.svgrepo.com/show/406022/kiwi-fruit.svg",
+      "id": "2"
+    },
+    {
+      "name": "Banana",
+      "image": "https://www.svgrepo.com/show/429765/banana-blackbarry-blackberries.svg",
+      "id": "3"
     }
   ],
-  "comments": [
+  "complements": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Granola",
+      "image": "https://s.cornershopapp.com/product-images/3073825.png?versionId=KDCOcdGbIkCNueWcnUgzPqV1x1lWT_JG",
+      "id": "1"
+    },
+    {
+      "name": "Paçoca",
+      "image": "https://cdn-icons-png.flaticon.com/512/7979/7979551.png",
+      "id": "2"
+    },
+    {
+      "name": "Leite Ninho",
+      "image": "https://www.svgrepo.com/show/492902/powdered-milk.svg",
+      "id": "3"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "sizecup": [
+    {
+      "name": "Pequeno (300ml)",
+      "image": "https://www.svgrepo.com/show/235441/coffee-cup-paper-cup.svg",
+      "price": 10,
+      "id": "1"
+    },
+    {
+      "name": "Médio (500ml)",
+      "image": "https://www.svgrepo.com/show/235441/coffee-cup-paper-cup.svg",
+      "price": 12,
+      "id": "2"
+    },
+    {
+      "name": "Grande (500ml)",
+      "image": "https://www.svgrepo.com/show/235441/coffee-cup-paper-cup.svg",
+      "price": 15,
+      "id": "3"
+    }
+  ]
 }
