@@ -1,19 +1,9 @@
 {
-    "frutas": [
-        {
-            "id": "1",
-            "name": "Morango",
-            "image": "https://www.svgrepo.com/show/489698/strawberry.svg"
-        },
-        {
-            "id": "2",
-            "name": "Kiwi",
-            "image": "https://www.svgrepo.com/show/406022/kiwi-fruit.svg"
-        },
-        {
-            "id": "3",
-            "name": "Banana",
-            "image": "https://www.svgrepo.com/show/429765/banana-blackbarry-blackberries.svg"
-        }
-    ]
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
