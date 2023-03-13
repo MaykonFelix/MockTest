@@ -1,0 +1,19 @@
+{
+    "frutas": [
+        {
+            "id": "1",
+            "name": "Morango",
+            "image": "https://www.svgrepo.com/show/489698/strawberry.svg"
+        },
+        {
+            "id": "2",
+            "name": "Kiwi",
+            "image": "https://www.svgrepo.com/show/406022/kiwi-fruit.svg"
+        },
+        {
+            "id": "3",
+            "name": "Banana",
+            "image": "https://www.svgrepo.com/show/429765/banana-blackbarry-blackberries.svg"
+        }
+    ]
+}
